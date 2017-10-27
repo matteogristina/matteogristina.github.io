@@ -1,12 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Headings</title>
 </head>
 <body>
 
 <h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h2>This is a sub-heading</h2>
+<h3>This is another sub-heading</h3>
+<h4>This is another sub-heading</h4>
+
+<p>Headings are defined by "h1-6"(in <>) h1 represents the most important heading, while h6 represents the least important heading. THe 4 decenting lines with "heading" in it are all heading lines. </p> 
+<h5 style="font-size:80px;">Headings can be larger than default sizes too.</h5>
+<p>Headings can be enlarged by using a style attribute (style="font-size:##px;")</p>
 
 </body>
 </html>
