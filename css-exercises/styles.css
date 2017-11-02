@@ -15,7 +15,12 @@ p {
   text-align: center;
 }
 
-.purplev p{
+.purplev {
+  color: purple;
+  font-family:verdana;
+}
+
+.purplev2 p{
   color: purple;
   font-family:verdana;
 }
