@@ -1,6 +1,25 @@
 h1 {
   color:red;
+  font-family: verdana;
 }
 p {
   color:blue;
+}
+
+#id1 {
+  color: green;
+}
+
+#id2 {
+  color: yellow;
+  text-align: center;
+}
+
+.purplev p{
+  color: purple;
+  font-family:verdana;
+}
+
+.ssp {
+  font-family: Source Sans Pro;
 }
