@@ -1,1 +1,73 @@
+h2 {
+  color: Azure;
+  background-color: DeepSkyBlue;
+  font-size: 50px;
+  text-align: center;
+  padding: 3px;
+  margin: 10px;
+}
+
+h1 {
+  color: Azure;
+  background-color: DeepSkyBlue;
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
+  margin: 0px;
+}
+
+h3 {
+  color: Azure;
+  background-color: DarkTurquoise;
+  font-family: "Arial Black", Gadget, sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+a {
+  color:lightseagreen;
+}
+
+a:visited {
+    color: magenta;
+}
+
+a:hover {
+    color: mediumpurple;
+}
+
+a:active {
+    color: orange;
+}
+
+tr {
+  background-color: WhiteSmoke;
+}
+
+th {
+  background-color: Silver;
+}
+
+.syntax {
+  color: cornflowerblue;
+  font-family: "Lucida Console", Monaco, monospace;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
