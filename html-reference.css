@@ -19,7 +19,7 @@ h1 {
 .heading3 {
   color: Azure;
   background-color: DarkTurquoise;
-  font-family: "Arial", Gadget, sans-serif;
+  font-family: "Arial Black", Gadget, sans-serif;
   text-align: center;
   padding: 0px;
   margin: 0px;
@@ -74,6 +74,12 @@ table, th, td {
     border-radius: 25px;
     width: 600px;
     height: 4px;
+}
+
+.default table, th, td{
+  color:black;
+  background-color: White;
+  
 }
 
 
