@@ -41,6 +41,12 @@ a:active {
     color: orange;
 }
 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+}
+
 tr {
   background-color: WhiteSmoke;
 }
@@ -57,12 +63,6 @@ th {
 .example {
   color: DodgerBlue;
   font-family: "Arial Black", Gadget, sans-serif;
-}
-
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  padding: 15px;
 }
 
 .hr
