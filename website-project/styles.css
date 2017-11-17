@@ -1,0 +1,19 @@
+.content {
+  background-color: #3969E3;
+}
+
+.content {
+  font-family:"Arial", sans-serif;
+  color:Snow;
+}
+
+img {
+  width:100%;
+}
+
+table, th, td {
+  border: 1px dotted white;
+  border-collapse: collapse;
+  padding: 5px;
+  
+}
